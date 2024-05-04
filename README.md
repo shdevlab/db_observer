@@ -1,2 +1,2 @@
 # db_observer
-DB observer for msgbot
+__***디비 파일 옵저버***__
